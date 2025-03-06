@@ -11,8 +11,8 @@ I'm a **passionate developer** who loves **building stuff.... any stuff**. 🚀
 ---
 
 ### 📊 GitHub Stats
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvioArzeno&theme=radical)](https://github.com/SilvioArzeno)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioArzeno&layout=compact&theme=radical&hide_border=true)
 
 ---
 
