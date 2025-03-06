@@ -22,7 +22,7 @@ I'm a **passionate developer** who loves **building stuff.... any stuff**. 🚀
 ---
 
 ### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/silvioarzeno/silvioarzeno/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/silvioarzeno/silvioarzeno/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 ---
 
