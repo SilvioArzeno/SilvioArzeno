@@ -4,12 +4,6 @@ I'm a **passionate developer** who loves **building stuff.... any stuff**. 🚀
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently working on **LumenAlta / Capa** as *Software Engineer*
-- 🌱 I’m learning **Rust and Go (Slowly but surely)**
-
----
-
 ### 📊 GitHub Stats
 
 
