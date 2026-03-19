@@ -11,11 +11,6 @@ I'm a **passionate developer** who loves **building stuff.... any stuff**. 🚀
 
 ---
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SilvioArzeno&theme=radical&no-frame=true&margin-w=15)
-
----
-
 ### 🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/silvioarzeno/silvioarzeno/output/github-contribution-grid-snake-dark.svg)
 
